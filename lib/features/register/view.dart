@@ -279,7 +279,7 @@ class _RegisterViewState extends State<RegisterView> {
                         });
                       },
                       icon: Icon(
-                          visible ? Icons.visibility : Icons.visibility_off),
+                          visible ? Icons.visibility_off : Icons.visibility),
                     ),
                     border: const OutlineInputBorder(),
                   ),

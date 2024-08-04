@@ -135,7 +135,7 @@ class _LoginViewState extends State<LoginView> {
                         });
                       },
                       icon: Icon(
-                          visible ? Icons.visibility : Icons.visibility_off),
+                          visible ? Icons.visibility_off  : Icons.visibility),
                     ),
                     border: const OutlineInputBorder(),
                   ),
