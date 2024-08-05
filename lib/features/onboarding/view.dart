@@ -26,14 +26,14 @@ class _OnboardingViewState extends State<OnboardingView> {
     {
       'imageUrl':
           "https://img.freepik.com/free-photo/foundation-product-branding-still-life_23-2149665134.jpg?ga=GA1.1.1921798909.1657083776&semt=ais_hybrid",
-      'title': 'EXPLORE TOP BRANDS',
+      'title': 'Explore Top Brands',
       'description':
           'Dive into a world of beauty with our curated selection of top cosmetics brands. From high-end luxury to everyday favorites, discover the best products to elevate your makeup routine. Enjoy exclusive access to the latest releases and timeless classics, all in one convenient place.',
     },
     {
       'imageUrl':
           "https://img.freepik.com/free-photo/woman-using-face-roller-her-beauty-routine_23-2150166444.jpg?ga=GA1.1.1921798909.1657083776",
-      'title': 'ORDER NOW',
+      'title': 'Order Now',
       'description':
           'Shop your favorite beauty products with just a few clicks. Enjoy a seamless shopping experience and place your order now for quick delivery. Treat yourself to the best in cosmetics and skincare without any hassle.',
     },
