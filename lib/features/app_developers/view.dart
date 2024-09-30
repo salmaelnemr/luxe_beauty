@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:skin_care_app/features/app_info/view.dart';
 
+
 class DeveloperModel {
   String? developerName;
   String? developerRole;
@@ -75,6 +76,9 @@ class _AppDevelopersViewState extends State<AppDevelopersView> {
                 children: [
                   InkWell(
                     onTap: () {
+                      // RouteUtils.push(
+                      //   const AppInformationView(),
+                      // );
                       Navigator.push(
                         context,
                         MaterialPageRoute(

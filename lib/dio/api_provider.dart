@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:skin_care_app/models/products_of_category_model.dart';
-import '../models/products_model.dart';
-import '../models/user_model.dart';
+import '../core/models/products_model.dart';
+import '../core/models/products_of_category_model.dart';
+import '../core/models/user_model.dart';
 
 class ApiProvider {
   ProductsModel? productsModel;

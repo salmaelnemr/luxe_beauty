@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:skin_care_app/models/user_model.dart';
+import '../../../core/models/user_model.dart';
 import '../../../dio/api_provider.dart';
 
 class ProfileModel {

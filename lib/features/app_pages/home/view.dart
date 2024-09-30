@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:skin_care_app/features/app_info/view.dart';
+import '../../../core/models/products_model.dart';
 import '../../../dio/api_provider.dart';
-import '../../../models/products_model.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({super.key});
